@@ -1,4 +1,5 @@
-# coeff4e15b7fd1e5d0219867c
+Rave Kandi Counter App 
+
 
 Rave Kandi is a special tradition for festival goers. You can learn more about Rave Kandi by clicking [this link](https://www.iheartraves.com/blogs/post/how-to-trade-kandi-at-a-rave).This is a bead counter app to help you make Rave kandi! When making Kandi, it can be difficult to keep track of how many beads you've put down, especially for more intricate designs. 
 
